@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a student from STTC and I love programming. I hope to communicate more with everyone in the community here
 
 <!--
 **eweekssttc/eweekssttc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
